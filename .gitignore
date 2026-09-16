@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+#files
+*C:\Users\shree\intern\kaggle\LLM_fine_tune\train.csv.zip
+*C:\Users\shree\intern\kaggle\LLM_fine_tune\train.csv
 
 # Distribution / packaging
 .Python
