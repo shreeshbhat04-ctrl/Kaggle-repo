@@ -9,6 +9,9 @@ __pycache__/
 *C:\Users\shree\intern\kaggle\LLM_fine_tune\train.csv.zip
 *C:\Users\shree\intern\kaggle\LLM_fine_tune\train.csv
 *C:\Users\shree\intern\kaggle\Practise\Music qualification\music\Data
+Audio/**/Data/
+Audio/**/dataset/
+*.exe
 
 # Distribution / packaging
 .Python
